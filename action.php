@@ -44,7 +44,7 @@
     *******************/
 
         /* You will need your unique Ally institutional ID. This can be found by looking in your Ally LTI settings in the launch URL setting. If your launch URL is https://prod.ally.ac/api/v1/4/lti/institution then the institutional ID would be 4 */
-        $allyID=;
+        $allyID=4306;
 
         /* When Ally was installed at your institution, a Consumer Key and Shared Secret was generated for you from Blackboard that you used to install Ally in Canvas. These values are needed to access the Ally API */
         $consumerKey='';
